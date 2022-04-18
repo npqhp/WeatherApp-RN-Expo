@@ -2,4 +2,4 @@
 
 Hình ảnh demo về app
 
-<img src="demo.jpeg" alt="drawing"/>
+<img src="demo.jpeg" alt="drawing" width="400"/>
